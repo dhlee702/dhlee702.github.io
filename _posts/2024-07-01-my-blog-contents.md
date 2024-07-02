@@ -1,24 +1,30 @@
+---
+layout: post
+title:  "My Blog contents"
+date:   2024-07-01 13:30:13 +0800
+categories: Default
+tags: mission Mission
+comments: 1
+---
 Personal life management blog
 
 My life Mission/Vision Dashboard
-<hr>
+
 Jekyll Static Home Page
-<hr>
+
 - Life Mission ( OOO 를 위해서, 
   미션사명서
-<hr>
+
 - 미션 - Vision
-<hr>
+
 - WBS 
-<hr>
+
 - 심리적 Mind Management
-<hr>
+
 - 도파민
-<hr>
+
 - 계속 쌓아가는, 누적, 유지보수
-<hr>
+
 - 학습
-<hr>
-- GitHub Actions
-<hr>
-- Jekyll : static site generator with built-in support for 
+  . GitHub Actions
+  . Jekyll : static site generator with built-in support for 
