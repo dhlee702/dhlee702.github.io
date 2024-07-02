@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "사명선언서"
+title:  "Mission Manifesto"
 date:   2024-06-30 15:30:13 +0800
 categories: mission
 tags: mission Mission
