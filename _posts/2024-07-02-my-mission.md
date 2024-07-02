@@ -2,7 +2,7 @@
 layout: post
 title:  "My Mission"
 date:   2024-07-02 01:30:13 +0800
-categories: Default
+categories: mission
 tags: mission Mission
 comments: 1
 ---
