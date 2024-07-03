@@ -7,8 +7,9 @@ tags: tasks
 comments: 1
 ---
 ### Markdown Task List
-```[tasklist]
+
 ### My tasks
+```[tasklist]
 - [ ] https://github.com/octo-org/octo-repo/issues/45
 - [ ] Draft task
 ```
