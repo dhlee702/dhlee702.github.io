@@ -10,6 +10,6 @@ comments: 1
 
 ### My tasks
 ```[tasklist]
-- [ ] https://github.com/octo-org/octo-repo/issues/45
+- [X] https://github.com/octo-org/octo-repo/issues/45
 - [ ] Draft task
 ```
