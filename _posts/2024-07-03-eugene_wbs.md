@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Markdown"
-date:   2024-07-03 13:30:13 +0900
+title:  "Eugene App WBS"
+date:   2024-07-03 18:30:13 +0900
 categories: markdown
-tags: example
+tags: eugene
 comments: 1
 ---
 # Markdown 문법 예제

@@ -9,7 +9,7 @@ comments: 1
 ### Markdown Task List
 
 ### My tasks
-```[tasklist]
+
 - [ ] Study MKDocs (https://www.mkdocs.org/)
 - [ ] Make project plan documentation with MKDocs
-```
+
