@@ -10,6 +10,6 @@ comments: 1
 
 ### My tasks
 ```[tasklist]
-- [X] https://github.com/octo-org/octo-repo/issues/45
-- [ ] Draft task
+- [ ] Study MKDocs (https://www.mkdocs.org/)
+- [ ] Make project plan documentation with MKDocs
 ```
